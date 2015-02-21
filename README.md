@@ -3,10 +3,11 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 The goal is to prepare tidy data that can be used for later analysis. 
 
-The dataset includes the following files:
+##The dataset includes the following files:
 =========================================
-——“README.md”
-
+——‘README.md’
+——‘CodeBook.md’：Describes the variables, the data, and any transformations or work that you performed to clean up the data.
+——
 
 You will be graded by your peers on a series of yes/no questions related to the project. 
 You will be required to submit: 
