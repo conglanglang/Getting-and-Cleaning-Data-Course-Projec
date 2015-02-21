@@ -3,6 +3,11 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 The goal is to prepare tidy data that can be used for later analysis. 
 
+The dataset includes the following files:
+=========================================
+——“README.md”
+
+
 You will be graded by your peers on a series of yes/no questions related to the project. 
 You will be required to submit: 
 1) a tidy data set as described below, 
