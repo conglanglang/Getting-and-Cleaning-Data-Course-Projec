@@ -14,7 +14,7 @@
 -ext_test: extracts only the measurements on the mean and standard deviation for each measurement
 
 ###the following code/variables do the same things of 'train set'as above
--X_train 
+*X_train 
 -y_train 
 -subject_train 
 -lab_train 
