@@ -9,11 +9,7 @@ The dataset includes the following files:
 
 -‘CodeBook.md’：Describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
--
+-'run_analysis.R':The R script to creates a independent tidy data set with the average of each variable for each activity and each subject.
 
-You will be graded by your peers on a series of yes/no questions related to the project. 
-You will be required to submit: 
-1) a tidy data set as described below, 
-2) a link to a Github repository with your script for performing the analysis, 
-3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
-You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
+-'upload_avg_data.txt': The tidy data set created in 'run_analysis.R'.
+
